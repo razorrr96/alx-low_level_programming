@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * *_strcpy - copy strings
+ * char *_strcpy - copy strings
  * @dest: destination
  * @src: source
- * Return : dest
+ * Return: string
  */
 
 char *_strcpy(char *dest, char *src)
